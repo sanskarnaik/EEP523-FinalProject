@@ -2,7 +2,7 @@
 This repo contains final project created by Sanskar and Sukhwinder.
 
 **Objective:** 
-We wanted a a device that can be used by the patient to transmit help signal to the Doctor, and an App that can be used by the Doctor to send his availability signal to the patient.
+We wanted a device that can be used by the patient to transmit 3 types of help signal to the Doctor depending on his/her requirements, and an App that can be used by the Doctor to see the help signal and in return send his availability message to the patient.
 
 **Components Used:** 
 1. Adafruit Feather Huzzah Microcontroller.
